@@ -1,0 +1,1 @@
+C:\Users\Mohammed\Documents\Visual Studio 2015\Projects\Reading IR Sensor\Reading IR Sensor\Reading IR Sensor.csproj;arm
